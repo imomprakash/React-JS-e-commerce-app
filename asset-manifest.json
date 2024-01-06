@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/React-JS-e-commerce-app/static/css/main.07d1992c.css",
+    "main.js": "/React-JS-e-commerce-app/static/js/main.a6b0cbe2.js",
+    "static/js/787.e8a3bb20.chunk.js": "/React-JS-e-commerce-app/static/js/787.e8a3bb20.chunk.js",
+    "static/media/P3-img.jpg": "/React-JS-e-commerce-app/static/media/P3-img.807c1e9a33af1c5d831c.jpg",
+    "static/media/Exclusive-img.webp": "/React-JS-e-commerce-app/static/media/Exclusive-img.dc5dcaa304546bec48a3.webp",
+    "static/media/Hero-image.png": "/React-JS-e-commerce-app/static/media/Hero-image.b0794a4fa036ea90fd67.png",
+    "static/media/New8.jpg": "/React-JS-e-commerce-app/static/media/New8.31b41c818273726ed4ee.jpg",
+    "static/media/New7.jpg": "/React-JS-e-commerce-app/static/media/New7.001a34c599294a3a02f3.jpg",
+    "static/media/New6.jpg": "/React-JS-e-commerce-app/static/media/New6.09cb4b6b8aa755a86234.jpg",
+    "static/media/P4-img.jpg": "/React-JS-e-commerce-app/static/media/P4-img.ca71c1173b08e35205b3.jpg",
+    "static/media/New1.jpg": "/React-JS-e-commerce-app/static/media/New1.9af223c742b023ba0b71.jpg",
+    "static/media/New3.jpg": "/React-JS-e-commerce-app/static/media/New3.fb9f7ee730ef651a982c.jpg",
+    "static/media/New4.jpg": "/React-JS-e-commerce-app/static/media/New4.9234c4c97fdd376c5c61.jpg",
+    "static/media/P2-img.jpg": "/React-JS-e-commerce-app/static/media/P2-img.d4b85b55deee6b506f43.jpg",
+    "static/media/mens-banner.webp": "/React-JS-e-commerce-app/static/media/mens-banner.1407907b060adb1c4eb0.webp",
+    "static/media/P1-img.jpg": "/React-JS-e-commerce-app/static/media/P1-img.de3817e16bc87a0cd6e4.jpg",
+    "static/media/telegram_icon.png": "/React-JS-e-commerce-app/static/media/telegram_icon.2fadde19bea5b104668a.png",
+    "static/media/hand-icon.png": "/React-JS-e-commerce-app/static/media/hand-icon.cb4e46f5ecbb61a4dea2.png",
+    "static/media/cross-icon.png": "/React-JS-e-commerce-app/static/media/cross-icon.8005c5b3dd902a7a35e4.png",
+    "static/media/Instagram-icon.png": "/React-JS-e-commerce-app/static/media/Instagram-icon.53505072d690c460b44c.png",
+    "static/media/cart-icon.jpg": "/React-JS-e-commerce-app/static/media/cart-icon.483fdbb77a6aabcd660d.jpg",
+    "static/media/kids-banner.jpg": "/React-JS-e-commerce-app/static/media/kids-banner.a4280376ceea865330a6.jpg",
+    "static/media/women-img5.jpg": "/React-JS-e-commerce-app/static/media/women-img5.268ce4c139015b744a9b.jpg",
+    "static/media/kid-img2.jpg": "/React-JS-e-commerce-app/static/media/kid-img2.84781e5afd7845451cdc.jpg",
+    "static/media/kid-img8.jpg": "/React-JS-e-commerce-app/static/media/kid-img8.1c5702f33a477666c345.jpg",
+    "static/media/Arrow-icon.png": "/React-JS-e-commerce-app/static/media/Arrow-icon.8bbd316842030f6213cc.png",
+    "static/media/women banner.jpg": "/React-JS-e-commerce-app/static/media/women banner.ecefb09ff978627df3b6.jpg",
+    "index.html": "/React-JS-e-commerce-app/index.html",
+    "main.07d1992c.css.map": "/React-JS-e-commerce-app/static/css/main.07d1992c.css.map",
+    "main.a6b0cbe2.js.map": "/React-JS-e-commerce-app/static/js/main.a6b0cbe2.js.map",
+    "787.e8a3bb20.chunk.js.map": "/React-JS-e-commerce-app/static/js/787.e8a3bb20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d1992c.css",
+    "static/js/main.a6b0cbe2.js"
+  ]
+}
