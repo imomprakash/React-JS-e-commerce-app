@@ -1,0 +1,47 @@
+
+.Banner-image{
+display: block;
+margin: 20px auto;
+width: 72%;
+}
+
+.Shopcategory-indexSort{
+    display: flex;
+    margin: 0px 170px;
+    justify-content: space-between;
+    align-items: center;
+}
+.Shopcategory-indexSort p span{
+    font-weight: 600;
+}
+
+.shopcategory-sort{
+    padding: 10px 20px;
+    border-radius: 40px;
+    border-radius: 1px solid #888;
+}
+
+.shopcategory-sort img{
+    width: 30px;
+}
+
+.shopcategory-products{
+    margin: 35px 76px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 60px;
+}
+
+.shopcategory-loadmore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+    width: 190px;
+    height: 50px;
+    border-radius: 75px;
+    background:#f3f2f2;
+    color: #666;
+    font-weight: 500;
+    font-size: 18px;
+}

@@ -1,0 +1,130 @@
+.productdispaly {
+    display: flex;
+    margin: 0 140px;
+}
+
+.productdisplay-left {
+    display: flex;
+    gap: 7px;
+}
+
+.productdispalay-img-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.productdispalay-img-list img {
+    height: 154px;
+    width: 145px;
+}
+
+.productdisplay-main-img {
+    width: 350px;
+    height: 490px;
+}
+
+.productdisplay-right {
+    margin: 0px 50px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.productdisplay-right h1 {
+    color: #3d3d3d;
+    font-size: 40px;
+    font-family: 600;
+
+}
+
+.productdisplay-right-star {
+    display: flex;
+    align-items: center;
+    margin-top: 6px;
+    gap: 4px;
+    color: #1c1c1c;
+    font-size: 16px;
+}
+
+.productdisplay-right-star img {
+    width: 15px;
+    height: 15px;
+}
+
+.productdisplay-right-prices {
+    display: flex;
+    margin: 12px 0px;
+    gap: 20px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.productdisplay-right-price-old {
+    color: #818181;
+    text-decoration: line-through;
+}
+
+.productdisplay-right-price-new {
+    color: #fb1c1c;
+    ;
+}
+
+.productdisplay-right-description {
+    color: #414141;
+    font-size: 17px;
+}
+
+.productdisplay-right-size h1 {
+    margin-top: 13px;
+    color: #656565;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.productdisplay-size {
+    display: flex;
+    margin: 15px 0px;
+    gap: 20px;
+}
+
+.productdisplay-size div {
+    padding: 12px 18px;
+    background: #fbfbfb;
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    cursor: pointer;
+    color: #3e3e3e;
+}
+
+.productdisplay-right button {
+    padding: 12px 18px;
+    width: 180px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background: #fb1c1c;
+    margin-bottom: 25px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.productdisplay-right button:hover{
+    background: none;
+    color: #4d4c4c;
+    border: 1px solid #fb1c1c;
+}
+
+.productdisplay-right-category {
+    margin-top: 6px;
+
+}
+
+.productdisplay-right-category span {
+    font-weight: 600;
+}
+
+.productdisplay-right-tag span {
+    font-weight: 600;
+}
